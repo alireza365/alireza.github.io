@@ -72,7 +72,7 @@ for i in range(n_features):
 ```
 
 
-![png](output_6_0.png)
+![png](img/pca/output_6_0.png)
 
 
 ## PCA with the covariance method <a name="PCA_Cov_method"></a>
