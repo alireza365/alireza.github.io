@@ -199,7 +199,7 @@ plt.show()
     
 
 
-![png](output_19_1.png)
+![png](img/pca/output_19_1.png)
 
 
 ## Step 6: Project the data <a name="Step_6"></a>
@@ -228,7 +228,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](img/pca/output_23_0.png)
 
 
 In continute, we will put all of the above steps into a single class, train it and verify the result with Scikit-learn's PCA model.
@@ -337,7 +337,7 @@ plt.show()
     
 
 
-![png](output_27_1.png)
+![png](img/pca/output_27_1.png)
 
 
 
